@@ -7,6 +7,7 @@ Requiriments:
 <br>
 <br>
 Simples Bot para Instagram craido com Python
+<br>
 Requisitos:
 <li>Python 3.7 (não esqueça de coloca-lo no path)</code></li>
 <li>Selenium (biblioteca do python para trabalhar com browser)</code></li>
